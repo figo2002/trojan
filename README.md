@@ -1,6 +1,6 @@
 # trojan
 
-[![CircleCI](https://circleci.com/gh/trojan-gfw/trojan/tree/master.svg?style=svg)](https://circleci.com/gh/trojan-gfw/trojan/tree/master) [![Build Status](https://ci.appveyor.com/api/projects/status/e0ulqwb44i7j5gkl/branch/master?svg=true)](https://ci.appveyor.com/project/GreaterFire/trojan/branch/master)
+[![Build Status](https://dev.azure.com/GreaterFire/Trojan-GFW/_apis/build/status/trojan-gfw.trojan?branchName=master)](https://dev.azure.com/GreaterFire/Trojan-GFW/_build/latest?definitionId=5&branchName=master)
 
 An unidentifiable mechanism that helps you bypass GFW.
 
@@ -23,3 +23,7 @@ Installation guide on various platforms can be found in the [wiki](https://githu
 ## License
 
 [GPLv3](LICENSE)
+
+## Flag Counter
+
+[![Flag Counter](https://s04.flagcounter.com/countxl/svnh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_Trojan/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/svnh)
